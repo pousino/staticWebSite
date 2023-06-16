@@ -53,21 +53,23 @@ section {
 
 #mainsection {
     padding-top: 50px; 
-    background: url(../images/pexels-photo.jpg); 
+    background: url(../images/Panorama1.JPG);
     min-height: 750px; 
-    background-position: center; 
+    background-position: center;
+    background-repeat: no-repeat; /*pour ne pas répéter l'image*/
 }
 
 
 .intro-message {
     text-align: center; 
-    color: white; 
-    font-size: 3em; 
+    color: black;
+    font-size: 3em;
+    /*font-family:  /*Snell Roundhand, cursive*/
 }
 
 
 .social-icon a {
-    color:white; 
+    color:black;
 }
 
 .social-icon a:hover {
