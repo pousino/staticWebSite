@@ -67,6 +67,9 @@ section {
     /*font-family:  /*Snell Roundhand, cursive*/
 }
 
+.intro-divider {
+    color: black;
+}
 
 .social-icon a {
     color:black;
